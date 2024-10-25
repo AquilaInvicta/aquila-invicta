@@ -3,8 +3,7 @@
 ## About Me
 I have been working in the cybersecurity industry for over two years, with a strong focus on **SOC (Security Operations Center)** operations. My passion lies in **Cyber Threat Intelligence (CTI)** and **malware analysis**, where I continually expand my knowledge and sharpen my skills.
 
-I'm always eager to learn and stay updated on the latest trends and techniques in cybersecurity. From threat hunting to incident response, I strive to enhance my ability to detect, analyze, and mitigate security incidents efficiently.
-
+I'm always eager to learn and stay updated on the latest trends and techniques in cybersecurity.
 ## Areas of Expertise
 - **SOC Analyst** with hands-on experience in monitoring, detection, and response to cyber threats.
 - **Cyber Threat Intelligence (CTI)** enthusiast, focusing on dark web intelligence and threat actor tracking.
