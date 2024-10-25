@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile! 🚀😄🕵️‍♂️
+# Welcome to my GitHub Profile! 🚀 😄
 
 ## About Me
 I have been working in the cybersecurity industry for over two years, with a strong focus on **SOC (Security Operations Center)** operations. My passion lies in **Cyber Threat Intelligence (CTI)** and **malware analysis**, where I continually expand my knowledge and sharpen my skills.
