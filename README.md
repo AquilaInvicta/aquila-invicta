@@ -18,10 +18,14 @@ This section contains a curated list of resources I track as part of my CTI work
 | [Venarix](https://t.me/venarix) | Telegram channel providing CTI-related updates | Up    |
 | [DarkPool](https://darkpool.example.com) | Dark web forum for threat actor monitoring     | Down  |
 
-*Note*: The table above is a sample. I regularly validate IOCs (e.g., URLs, hashes) using tools like VirusTotal and Hybrid Analysis to ensure accuracy.
-
+*Note*: The table above is a sample. I regularly validate IOCs (e.g., URLs, hashes) using different tools.
 ## Currently Under Construction 🚧
-This repository is a work in progress. I’m actively building out detailed CTI reports, scripts (e.g., Python for OSINT automation), and more. Stay tuned for updates as I refine this space into a hub for threat intelligence enthusiasts
+This repository is a work in progress. 
+I’m actively building out detailed CTI reports, scripts (e.g., Python for OSINT automation), and more. 
+Stay tuned for updates as I refine this space into a hub for threat intelligence enthusiasts.
 
-## Disclaimer 🛑🛑🛑🛑🛑🛑
-All links provided in this repository are for **informational and educational purposes only**. I do not endorse or promote any content hosted on these external resources. As the repository owner, I bear **no responsibility** for the availability, accuracy, or legality of the linked content. Use them at your own risk and discretion.
+🛑🛑🛑 **Disclaimer** 🛑🛑🛑
+All links provided in this repository are for **informational and educational purposes only**. 
+I do not endorse or promote any content hosted on these external resources. 
+As the repository owner, I bear **no responsibility** for the availability, accuracy, or legality of the linked content. 
+🛑 **Use them at your own risk and discretion**. 🛑
