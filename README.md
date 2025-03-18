@@ -6,7 +6,7 @@ I’m a **SOC Analyst** with over two years of experience in the cybersecurity i
 I’m a lifelong learner, constantly exploring new tools, techniques, and trends to enhance my expertise in the ever-evolving cybersecurity landscape.
 
 ## Areas of Expertise
-- **SOC Analyst**: Hands-on experience in real-time monitoring, threat detection, and incident response using SIEM tools like Splunk and QRadar.
+- **SOC Analyst**
 - **Cyber Threat Intelligence (CTI)**: Skilled in dark web intelligence, threat actor profiling, and open-source intelligence (OSINT) collection.
 - **Phishing Analysis**: Proficient in dissecting phishing campaigns, identifying Indicators of Compromise (IOCs), and mitigating targeted attacks.
 
