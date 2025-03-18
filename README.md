@@ -8,12 +8,6 @@ I'm always eager to learn and stay updated on the latest trends and techniques i
 - **SOC Analyst** with hands-on experience in monitoring, detection, and response to cyber threats.
 - **Cyber Threat Intelligence (CTI)** enthusiast, focusing on dark web intelligence and threat actor tracking.
 - **Phishing Analysis** expert, identifying and dissecting phishing campaigns to protect organizations from targeted threats.
-  
-## Tools & Technologies
-- **SIEM Platforms**: Microsoft Sentinel, Splunk
-- **Network Analysis**: Wireshark, Zeek
-- **Phishing Detection**: https://github.com/solitariousgeneral/osint-link
-- **Threat Intelligence**: https://github.com/solitariousgeneral/osint-link
 
 ## Currently Under Construction 🚧
 This profile is still a work in progress, as I'm working on adding more detailed projects and contributions. Stay tuned for updates!
