@@ -23,5 +23,5 @@ This section contains a curated list of resources I track as part of my CTI work
 ## Currently Under Construction 🚧
 This repository is a work in progress. I’m actively building out detailed CTI reports, scripts (e.g., Python for OSINT automation), and more. Stay tuned for updates as I refine this space into a hub for threat intelligence enthusiasts!
 
-## Disclaimer
+🛑🛑🛑🛑🛑🛑 ## Disclaimer 🛑🛑🛑🛑🛑🛑
 All links provided in this repository are for **informational and educational purposes only**. I do not endorse or promote any content hosted on these external resources. As the repository owner, I bear **no responsibility** for the availability, accuracy, or legality of the linked content. Use them at your own risk and discretion.
