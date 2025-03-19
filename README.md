@@ -15,8 +15,8 @@ This section contains a curated list of resources I track as part of my CTI work
 
 | Nome della Risorsa          | Descrizione                                      | Stato |
 |-----------------------------|--------------------------------------------------|-------|
-| [Venarix](https://t.me/venarix) | Telegram channel providing CTI-related updates | Up    |
-| [DarkPool](https://darkpool.example.com) | Dark web forum for threat actor monitoring     | Down  |
+| [Venarix](https://t.me/venarix) | Telegram channel providing CTI-related updates | ACTIVE   |
+| [DarkPool](https://darkpool.example.com) | Dark web forum for threat actor monitoring     | DOWN  |
 
 *Note*: The table above is a sample. I regularly validate IOCs (e.g., URLs, hashes) using different tools.
 ## Currently Under Construction 🚧
