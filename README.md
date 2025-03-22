@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile 
 
 ## About Me
-I’m a SOC Analyst with over two years of experience in cybersecurity, specializing in Security Operations Center operations. My primary focus is Cyber Threat Intelligence (CTI), where I uncover actionable insights to counter cyber threats. This repository is dedicated exclusively to CTI, highlighting my work in threat intelligence gathering, analysis, and sharing.
+I’m a SOC Analyst with over two years of experience in cybersecurity, specializing in Security Operations Center operations.<br>My primary focus is Cyber Threat Intelligence (CTI), where I uncover actionable insights to counter cyber threats.<br>This repository is dedicated exclusively to CTI, highlighting my work in threat intelligence gathering, analysis, and sharing.
 
 I’m committed to continuous learning, staying ahead of evolving cybersecurity challenges.
 
