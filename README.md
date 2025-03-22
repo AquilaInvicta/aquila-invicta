@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 
 
-## About Me
+## About Me 🪄
 I’m a SOC Analyst with over two years of experience in cybersecurity, specializing in Security Operations Center operations.<br>My primary focus is Cyber Threat Intelligence (CTI), where I uncover actionable insights to counter cyber threats.<br>This repository is dedicated exclusively to CTI, highlighting my work in threat intelligence gathering, analysis, and sharing.
 
 I’m committed to continuous learning, staying ahead of evolving cybersecurity challenges.
@@ -20,11 +20,11 @@ Below is a curated list of resources I monitor for CTI. Contributions are welcom
 
 *Note*: This is a sample; I regularly validate indicators like URLs and hashes.
 
-## Work in Progress
+## Work in Progress 👷
 This repository is under active development, with plans for detailed CTI reports and automation tools. Updates coming soon.
 
-## My OSINT Collection
+## My OSINT Collection 👀
 Explore my curated list of OSINT tools and resources: [CTI Tool](https://start.me/p/xjkjND/cti-tool)
 
-## Disclaimer
-All links are provided for informational and educational purposes only. I do not endorse or promote external content and take no responsibility for its availability, accuracy, or legality. Use at your own risk.
+## Disclaimer 🔴
+**All links are provided for informational and educational purposes only. I do not endorse or promote external content and take no responsibility for its availability, accuracy, or legality. Use at your own risk.**
